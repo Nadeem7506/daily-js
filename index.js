@@ -260,6 +260,27 @@
 
 // console.log(check([1,2,2,3,4,5,5,6,7]))
 
+// 4. find the natural number//
+
+// function array(num) {
+//     if(num > 0) {
+//         console.log("it is a nutural number")
+//     } else {
+//         console.log("its not a nutural number");
+        
+//     }
+// }
+// console.log(array(-1))
+
+//5. find the largest number//
+
+// function largest(a, b) {
+//     if (a > b ? a : b) {
+        
+//     }
+// }
+// console.log(largest([1,2,3,4,5,6,7,8,9,10]))
+
 
 
 
